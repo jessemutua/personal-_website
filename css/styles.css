@@ -35,5 +35,28 @@ img {
 }
 
 .about-me {
-    width: 300px;
+    width: 315px;
+    padding-left: 6px;
+}
+
+.initial {
+    float: left;
+}
+
+.education {
+    float: right;
+    width: 400px;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid white;
+}
+
+table td {
+    border: 1px solid whitesmoke;
+}
+
+a {
+    color: aliceblue;
 }
