@@ -58,5 +58,22 @@ table td {
 }
 
 a {
-    color: aliceblue;
+    color: gold;
+}
+
+footer {
+    border-style: solid;
+    margin-top: 70px;
+    height: 150px;
+    margin-right: 4px;
+}
+
+input {
+    text-decoration: wavy;
+    color: black;
+}
+
+input area {
+    border: 3px;
+    background-color: cyan;
 }
