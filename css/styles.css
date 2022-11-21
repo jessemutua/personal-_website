@@ -1,6 +1,7 @@
 body {
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    color: whitesmoke
+    color: whitesmoke;
+    background-image: url(../assets/image3.jpg);
 }
 
 h3 {
@@ -10,8 +11,8 @@ h3 {
 
 .grid-container {
     width: 800px;
-    background-color: black;
     height: 700px;
+    background-color: black;
 }
 
 .profile {
@@ -66,14 +67,4 @@ footer {
     margin-top: 70px;
     height: 150px;
     margin-right: 4px;
-}
-
-input {
-    text-decoration: wavy;
-    color: black;
-}
-
-input area {
-    border: 3px;
-    background-color: cyan;
 }
